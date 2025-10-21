@@ -1,6 +1,6 @@
 "use client";
 
-import cn from "@utils/cn";
+import { cn } from "@assets/lib/utils";
 import { StyleableFC } from "@utils/misc";
 import type { MouseEvent } from "react";
 
